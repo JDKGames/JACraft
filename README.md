@@ -1,1 +1,1 @@
-## 3D Game. Made By BioShot & PrestonWitzel
+## 2D Game. Made By BioShot & PrestonWitzel
